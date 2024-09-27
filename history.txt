@@ -1,1 +1,2 @@
 Django: complete ch7 ,User Accounts at slide page.174
+python-book: ch1 at this...... (5 - 1) * ((7 + 1) / (3 - 1))
