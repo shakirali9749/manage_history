@@ -1,0 +1,1 @@
+Django: complete ch7 ,User Accounts at slide page.174
